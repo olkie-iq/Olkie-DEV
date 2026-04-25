@@ -1,39 +1,26 @@
-<div align="center">
-# 🚀 Olkie
-### Game Developer • Full-Stack Engineer • AI Expert • Content Creator
+# 🚀 Olkie 
+### Game Developer • Full-Stack Engineer • AI Expert
 
-| Portfolio | YouTube | LinkedIn | Discord | Telegram |
-| :--- | :--- | :--- | :--- | :--- |
-| [![Portfolio](https://img.shields.io/badge/Olkie_World-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://olkie.rf.gd/) | [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_olkie) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olkie) | [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QdvF2tjy6h) | [![Telegram](https://img.shields.io/badge/Telegram-26A8E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Al_irabi) |
+![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-purple?style=flat-square&logo=discord&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white)
 
-<br>
-![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat-square&color=orange&label=TOTAL+HITS)
-</div>
 ---
+
 ### 👨‍💻 About Me
-I am a versatile **Software Developer** with a passion for building immersive **Games**, scalable **Web Apps**, and intelligent **Bots**. As an **AI & Prompt Engineering Specialist**, I focus on optimizing LLMs and automating complex workflows. Beyond the code, I am a digital creator sharing technical insights on YouTube and exploring the depths of classical Arabic linguistics.
+I am a versatile **Software Developer** with a passion for building immersive **Games**, scalable **Web Apps**, and intelligent **Bots**. As an **AI & Prompt Engineering Specialist**, I focus on optimizing LLMs and automating complex workflows.
+
 ---
+
 ### 🛠️ Technical Arsenal
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Game Dev** | `C++`, `Dart`, `Game Logic`, `Asset Optimization` |
-| **Web & Backend** | `Node.js`, `Express.js`, `JavaScript`, `HTML5/CSS3` |
-| **AI & Automation** | `Prompt Engineering`, `LLMs`, `Automation Bots` |
-| **Mobile Apps** | `Flutter`, `Dart`, `Firebase`, `SQLite` |
-| **Design & Media** | `Photoshop`, `Figma`, `Content Creation` |
+* **Languages:** `C++`, `JavaScript`, `Dart`, `Node.js`
+* **Tools:** `Express.js`, `Flutter`, `Firebase`, `Git`
+* **Specialties:** `Prompt Engineering`, `LLMs`, `Game Dev`
 
 ---
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="48%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="48%">
-</div>
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&theme=nord)
+
 ---
-### 💡 Developer Logic
-```javascript
-const devLife = {
-  status: "Building the Future",
-  coffeeConsumed: Infinity,
-  motto: "If it's not broken, optimize it anyway."
-};
+
+### 💡 Motto
+> "If it's not broken, optimize it anyway."
