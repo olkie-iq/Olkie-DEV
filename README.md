@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# 🚀 Hussein | Hasnain (Olkie)
+# 🚀 Olkie
 ### Game Developer • Full-Stack Engineer • AI Expert • Content Creator
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Olkie_World-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://olkie.rf.gd/)
