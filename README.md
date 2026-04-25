@@ -1,7 +1,7 @@
 # 🚀 Olkie 
 ### Game Developer • Full-Stack Engineer • AI Expert
 
-![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-purple?style=flat-square&logo=discord&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://olkie.rf.gd/) [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@_olkie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olkie) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/QdvF2tjy6h) [![Telegram](https://img.shields.io/badge/Telegram-26A8E1?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Al_irabi)
 
 ---
 
