@@ -3,48 +3,64 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
 
-# 🚀 أهلاً بك في عالمي التقني
+# 🚀 Hussein | Hasnain (Olkie)
+### Game Developer • Full-Stack Engineer • AI Expert • Content Creator
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_olkie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olkie)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QdvF2tjy6h)
+[![Telegram](https://img.shields.io/badge/Al_Irabi_Channel-26A8E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Al_irabi)
 
 <details>
-<p><strong> <summary> 🎧 حالياً أعمل بتركيز على أنغام: </summary> </strong></p>
+<p><strong> <summary> 🎧 Currently Coding & Vibing to: </summary> </strong></p>
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Hussein-Dev&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHussein-Dev&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Telegram](https://img.shields.io/badge/Contact_Me-Telegram-blue?style=flat&logo=telegram)](https://t.me/spxd007)
-
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 </div>
 
 <hr>
 
-### 👨‍💻 من أنا؟
-أنا **حسين**، مطور برمجيات شامل (Full-Stack) متخصص في بناء المواقع، التطبيقات، والألعاب. أمتلك شغفاً عميقاً بـ **هندسة الأوامر (Prompt Engineering)** والذكاء الاصطناعي، وأقوم بصناعة محتوى تقني يهدف لتبسيط المفاهيم البرمجية.
+### 👨‍💻 About Me
+I am a versatile **Software Developer** with a passion for building immersive **Games**, scalable **Web Apps**, and intelligent **Bots**. As an **AI & Prompt Engineering Specialist**, I focus on optimizing LLMs and automating complex workflows. Beyond the code, I am a digital creator sharing technical insights on YouTube and exploring the depths of classical Arabic linguistics.
 
 ---
 
-### 🛠️ ترسانتي التقنية (Tech Stack)
+### 🛠️ Technical Arsenal
 
-![AI & Data](https://img.shields.io/badge/-AI%20%26%20Prompt%20Engineering-FF6F61?style=flat&logo=openai&logoColor=white)
-![Game Dev](https://img.shields.io/badge/-Game%20Development-61DAFB?style=flat&logo=unity&logoColor=black)
-
-| التصنيف | التقنيات والأدوات |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **اللغات البرمجية** | `Node.js`, `Python`, `Dart`, `C++`, `JavaScript`, `Go` |
-| **تطوير الويب** | `Express.js`, `HTML5`, `CSS3`, `Chakra-UI`, `React Native` |
-| **تطوير التطبيقات** | `Flutter`, `Firebase`, `SQLite` |
-| **الذكاء الاصطناعي** | `LLMs`, `Prompt Engineering`, `Automation Bots` |
-| **التصميم والمحتوى** | `Photoshop`, `Figma`, `Social Media Post Design` |
-| **أدوات النظام** | `GNU/Linux`, `Bash`, `Git`, `VScode`, `Neovim` |
+| **Game Dev** | `C++`, `Dart`, `Game Logic`, `Asset Optimization` |
+| **Web & Backend** | `Node.js`, `Express.js`, `JavaScript`, `HTML5/CSS3` |
+| **AI & Automation** | `Prompt Engineering`, `LLMs`, `Automation Bots` |
+| **Mobile Apps** | `Flutter`, `Dart`, `Firebase`, `SQLite` |
+| **Design & Media** | `Photoshop`, `Figma`, `Content Creation` |
+| **Environment** | `GNU/Linux`, `Bash`, `Git`, `VScode`, `Neovim` |
 
 ---
 
-### 📊 إحصائيات البرمجة
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
+</div>
+
+---
+
+### 🌟 Current Focus & Interests
+- 🕹️ Founder of **Olkie World** (Game Development Hub).
+- 📜 Enthusiast of Classical Arabic Poetry (Al-Mutanabbi).
+- 🌱 Deep diving into **Frappe Framework** and ERP systems.
+- ⚡ **Fun Fact:** Banging your head against a wall for one hour burns 150 calories (Not recommended for debugging!).
+
+---
+
+### 💡 Developer Logic
 ```javascript
-const Hussein = {
-  pronouns: "He/Him",
-  code: ["Web", "Apps", "Games", "Bots"],
-  tools: ["Node.js", "Express", "Flutter", "AI Models"],
-  hobbies: ["Classical Arabic Poetry", "PC Building", "Content Creation"],
-  challenge: "Optimizing AI tokens for maximum efficiency"
+const devLife = {
+  status: "Building the Future",
+  coffeeConsumed: Infinity,
+  bugsFixed: "Loading...",
+  motto: "If it's not broken, optimize it anyway."
 };
