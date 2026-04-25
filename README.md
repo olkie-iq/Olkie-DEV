@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
 
-# 🚀 Hussein | Hasnain (Olkie)
+# 🚀 Olkie
 ### Game Developer • Full-Stack Engineer • AI Expert • Content Creator
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Olkie_World-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://olkie.rf.gd/)
