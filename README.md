@@ -3,13 +3,13 @@
 # 🚀 Olkie
 ### Game Developer • Full-Stack Engineer • AI Expert • Content Creator
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Olkie_World-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://olkie.rf.gd/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_olkie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/olkie)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QdvF2tjy6h)
-[![Telegram](https://img.shields.io/badge/Al_Irabi_Channel-26A8E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Al_irabi)
+<a href="https://olkie.rf.gd/"><img src="https://img.shields.io/badge/Portfolio-Olkie_World-orange?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+<a href="https://www.youtube.com/@_olkie"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/olkie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://discord.gg/QdvF2tjy6h"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://t.me/Al_irabi"><img src="https://img.shields.io/badge/Al_Irabi_Channel-26A8E1?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-<br>
+<br><br>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 
